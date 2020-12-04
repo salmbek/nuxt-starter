@@ -1,0 +1,44 @@
+[
+  {
+    "name": "afterCourse",
+    "path": "/afterCourse",
+    "component": "/Users/salimbek/Desktop/nuxt-starter/pages/afterCourse/index.vue",
+    "chunkName": "pages/afterCourse/index",
+    "_name": "_1b93ff0e"
+  },
+  {
+    "name": "afterDropdown",
+    "path": "/afterDropdown",
+    "component": "/Users/salimbek/Desktop/nuxt-starter/pages/afterDropdown/index.vue",
+    "chunkName": "pages/afterDropdown/index",
+    "_name": "_708a97a2"
+  },
+  {
+    "name": "afterLogin",
+    "path": "/afterLogin",
+    "component": "/Users/salimbek/Desktop/nuxt-starter/pages/afterLogin/index.vue",
+    "chunkName": "pages/afterLogin/index",
+    "_name": "_82bec83e"
+  },
+  {
+    "name": "cart",
+    "path": "/cart",
+    "component": "/Users/salimbek/Desktop/nuxt-starter/pages/cart/index.vue",
+    "chunkName": "pages/cart/index",
+    "_name": "_bf6791d8"
+  },
+  {
+    "name": "courses",
+    "path": "/courses",
+    "component": "/Users/salimbek/Desktop/nuxt-starter/pages/courses/index.vue",
+    "chunkName": "pages/courses/index",
+    "_name": "_f780a54c"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/salimbek/Desktop/nuxt-starter/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_33d281f1"
+  }
+]

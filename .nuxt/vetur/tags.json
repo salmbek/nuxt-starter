@@ -1,0 +1,44 @@
+{
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "LazyLogo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "CartHeaderComponent": {
+    "description": "Auto imported from components/cartHeaderComponent.vue"
+  },
+  "LazyCartHeaderComponent": {
+    "description": "Auto imported from components/cartHeaderComponent.vue"
+  },
+  "FooterComponent": {
+    "description": "Auto imported from components/footerComponent.vue"
+  },
+  "LazyFooterComponent": {
+    "description": "Auto imported from components/footerComponent.vue"
+  },
+  "HeaderComponent": {
+    "description": "Auto imported from components/headerComponent.vue"
+  },
+  "LazyHeaderComponent": {
+    "description": "Auto imported from components/headerComponent.vue"
+  },
+  "IntroSectionComponent": {
+    "description": "Auto imported from components/introSectionComponent.vue"
+  },
+  "LazyIntroSectionComponent": {
+    "description": "Auto imported from components/introSectionComponent.vue"
+  },
+  "LoadingComponent": {
+    "description": "Auto imported from components/loadingComponent.vue"
+  },
+  "LazyLoadingComponent": {
+    "description": "Auto imported from components/loadingComponent.vue"
+  },
+  "LoginPageComponent": {
+    "description": "Auto imported from components/loginPageComponent.vue"
+  },
+  "LazyLoginPageComponent": {
+    "description": "Auto imported from components/loginPageComponent.vue"
+  }
+}
